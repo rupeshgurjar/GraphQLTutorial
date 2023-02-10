@@ -1,0 +1,14 @@
+[
+    {
+        "id":"col-101",
+        "name":"BHU",
+        "location":"UP",
+        "ratings":5
+    },
+    {
+        "id":"col-102",
+        "name":"IIT",
+        "location":"MP",
+        "ratings":5
+    }
+]

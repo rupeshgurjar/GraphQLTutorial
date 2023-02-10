@@ -1,0 +1,26 @@
+[
+    {
+        "id":"S1001",
+        "fname":"mohit",
+        "lname":"sharma",
+        "email":"mohit.sharma@gmail.com",
+        "password":"mohit",
+        "collegeId":"col-102"
+    },
+    {
+        "id":"S1002",
+        "fname":"Ajay",
+        "lname":"Raj",
+        "email":"ajay.raj@gmail.com",
+        "password":"Ajay",
+        "collegeId":"col-101"
+    },
+    {
+        "id":"S1003",
+        "fname":"dev",
+        "lname":"singh",
+        "email":"dev.singh@gmail.com",
+        "password":"Dev",
+        "collegeId":"col-102"
+    }
+]
